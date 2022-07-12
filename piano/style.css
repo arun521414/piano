@@ -1,0 +1,242 @@
+body{
+	background: black;
+	-webkit-user-select :none;
+
+}
+.keys-div{
+	
+	width: auto;
+	height: 250px;
+	display: flex;
+	position: absolute;
+	left: 70px;
+	top: 200px;
+	
+
+	
+}
+
+.keys-div .keys-white{
+	border: 1px solid black;
+	background: linear-gradient(to bottom,lightblue,#f01a25);
+	width: 56px;
+	height: 250px;
+	border-radius: 6px;
+	box-shadow: 0px 0px 60px 10px #f01a25;
+	border-bottom: 4px solid black;
+}
+
+.keys-div .keys-white:hover{
+	background: orangered;
+	box-shadow: none;
+	border-bottom: none;
+}
+
+
+
+.keys-div .keys-white .keys-name-1{
+	font-family: sans-serif;
+	color: black;
+	font-size: 17px;
+	position: relative;
+	top: 160px;
+	left: 16px;
+	font-weight: 800;
+
+}
+.keys-div .keys-white .keys-name-2{
+	font-family: sans-serif;
+	color: black;
+	font-size: 22px;
+	position: relative;
+	top: 210px;
+	right: 8px;
+	font-weight: 800;
+
+}
+
+.keys-div .keys-black .keys-name-3{
+
+	font-family: sans-serif;
+	color: white;
+	font-size: 13px;
+	position: absolute;
+	padding-left: 2px;
+	position: absolute;
+	top: 20px;
+}
+
+.keys-div .keys-black .keys-name-4{
+
+	font-family: sans-serif;
+	color: white;
+	font-size: 18px;
+	position: absolute;
+	padding-left: 8px;
+	position: absolute;
+	top: 100px;
+	font-weight: 900;
+}
+
+.keys-div .keys-black{
+	-webkit-user-select :none;
+	padding: 3px;
+
+
+}
+
+.keys-div .keys-black:hover{
+	background: orangered;
+	border: 1px solid black;
+	
+	
+}
+
+
+.keys-div .keys-black-1{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 43px;
+
+}
+
+.keys-div .keys-black-2{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 100px;
+}
+
+.keys-div .keys-black-3{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 215px;
+}
+
+.keys-div .keys-black-4{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 274px;
+}
+
+.keys-div .keys-black-5{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 330px;
+}
+
+.keys-div .keys-black-6{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 446px;
+}
+.keys-div .keys-black-7{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 506px;
+}
+
+.keys-div .keys-black-8{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 620px;
+}
+
+.keys-div .keys-black-9{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 679px;
+}
+
+.keys-div .keys-black-10{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 738px;
+}
+
+.keys-div .keys-black-11{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 854px;
+}
+.keys-div .keys-black-12{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 913px;
+}
+
+.keys-div .keys-black-13{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 1028px;
+}
+
+.keys-div .keys-black-14{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 1087px;
+}
+
+.keys-div .keys-black-15{
+	width: 30px;
+	border-radius: 6px;
+	height: 150px;
+	background: black;
+	position: absolute;
+	left: 1143px;
+}
+
+
+.back-theme input{
+	width: 50px;
+	height: 50px;
+	margin-top: 5px;
+}
+
+
+.keys-theme input{
+	margin-top: 5px;
+	width: 50px;
+	height: 50px;
+}
